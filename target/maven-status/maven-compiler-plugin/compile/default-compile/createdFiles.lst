@@ -1,0 +1,4 @@
+com\uff\br\Application.class
+com\uff\br\entities\Auth.class
+com\uff\br\DAO\AuthDAO.class
+com\uff\br\controllers\AuthController.class
